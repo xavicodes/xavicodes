@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🌟 About Me<br><br>Hi! I'm Xavi, a 42 student from Lisbon.
+I'm Xavi, a 42 student from Lisbon.
 I have a passion for coding, skateboarding, and staying active through sports.
 When I’m not writing code, you can find me listening to music or enjoying a good skate session.
 I love combining my interests to create projects that inspire and engage others. Feel free to check out my work and connect!<br>
